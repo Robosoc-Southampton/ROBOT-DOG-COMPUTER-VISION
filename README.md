@@ -1,2 +1,2 @@
 # ROBOT-DOG-COMPUTER-VISION
-Simple basic object detection functions
+Basic object detection functions
